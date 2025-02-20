@@ -6,7 +6,7 @@ A ideia deste Desafio de Projeto é elaborar um website, utilizando uma estrutur
 
 Utilize todas as tags explicadas nas aulas:
 
-<h1> até <h6>
+//<h1> até <h6>
 <p>
 <mark>
 <small>
