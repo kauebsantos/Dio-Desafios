@@ -6,24 +6,24 @@ A ideia deste Desafio de Projeto é elaborar um website, utilizando uma estrutur
 
 Utilize todas as tags explicadas nas aulas:
 
-//<h1> até <h6>
-<p>
-<mark>
-<small>
-<i>
-<u>
-<strong>
-<ol>
-<ul>
-<li>
-<a>
-<hr>
-<sub>
-<sup>
-<blockquote>
+h1 até h6
+p
+mark
+small
+i
+u
+strong
+ol
+ul
+li
+a
+hr
+sub
+sup
+blockquote
 Utilize novas tags sugeridas:
 
-<font>
-<del>
-<p> (já está na lista anterior)
-<abbr> (a ideia é buscar estas tags na internet, entender como elas funcionam e utilizar no texto).
+font
+del
+p (já está na lista anterior)
+abbr (a ideia é buscar estas tags na internet, entender como elas funcionam e utilizar no texto).
